@@ -1,0 +1,178 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.Top-bar {
+  display: flex;
+
+  background-color: whitesmoke;
+  width: 100%;
+  justify-content: space-between;
+}
+.heading {
+  font-size: 90px;
+  margin-left: 70px;
+}
+.location {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+
+  background-color: whitesmoke;
+}
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 30px;
+}
+.scroll {
+  margin-right: 20px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.ri-arrow-right-down-line {
+  font-size: 20px;
+  transition: font-size 0.32s ease-in;
+  cursor: pointer;
+}
+.ri-arrow-right-down-line:hover {
+  font-size: 30px;
+}
+.berlin {
+  margin-right: 76%;
+  font-weight: bold;
+  font-size: 20px;
+}
+.image {
+  display: inline-block;
+  margin-bottom: 0px;
+  width: 100%;
+}
+.img {
+  width: 100%;
+  object-fit: cover;
+  height: 10%;
+}
+
+.second-Mainheading {
+  background-color: whitesmoke;
+
+  display: flex;
+  margin-top: 0px;
+  border: 100%;
+  justify-content: space-between;
+}
+.about {
+  font-size: 70px;
+  font-weight: bold;
+  margin-bottom: 90px;
+  margin-left: 70px;
+}
+.line {
+  border: none;
+  height: 3px;
+  background-color: black;
+  width: 100%;
+  margin-bottom: 30px;
+}
+.line1 {
+  border: none;
+  height: 2px;
+  background-color: black;
+  width: 100%;
+  margin-bottom: 30px;
+}
+.verticle-line {
+  width: 2px;
+  background-color: black;
+  align-self: stretch;
+  margin: 30px;
+}
+.right-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 10%;
+}
+.socialMedia-icons {
+  align-self: center;
+  margin-top: 80%;
+}
+.ri-twitter-x-line {
+  font-size: 40px;
+  margin: 10px;
+  transition: font-size 0.32s ease-in;
+  cursor: pointer;
+}
+.ri-twitter-x-line:hover {
+  font-size: 50px;
+}
+.ri-instagram-line {
+  font-size: 40px;
+  margin: 10px;
+  transition: font-size 0.32s ease-in;
+  cursor: pointer;
+}
+.ri-instagram-line:hover {
+  font-size: 50px;
+}
+.ri-chrome-fill {
+  font-size: 40px;
+  margin: 10px;
+  transition: font-size 0.32s ease-in;
+  cursor: pointer;
+}
+.ri-chrome-fill:hover {
+  font-size: 50px;
+}
+.section-three {
+  display: flex;
+  background-color: whitesmoke;
+  width: 100%;
+  height: 600px;
+}
+.ri-arrow-right-down-long-line {
+  font-size: 50px;
+  margin-left: 150px;
+  transition: font-size 0.32s ease-in;
+  cursor: pointer;
+}
+.ri-arrow-right-down-long-line:hover {
+  font-size: 60px;
+}
+
+.verticle-line2 {
+  width: 2.5px;
+  background-color: black;
+  align-self: stretch;
+  margin: 40px;
+}
+.digital {
+  font-size: 60px;
+}
+
+#description {
+  margin-top: 30px;
+  font-size: 30px;
+  margin-bottom: 60px;
+}
+.verticle-line4 {
+  width: 2px;
+  background-color: black;
+  align-self: stretch;
+  margin: 30px;
+}
+#description1 {
+  margin-top: 30px;
+  font-size: 30px;
+  margin-bottom: 25px;
+}
