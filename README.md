@@ -16,6 +16,3 @@ Hi, I'm Alok a Btech CSE student and a beginner web developer with knowledge of 
 ## Technologies Used
 - HTML
 - CSS
-## Live Demo
--Link: https://alokranjan108.github.io/Simple-Portfolio-Website/
-  
